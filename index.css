@@ -1,3 +1,11 @@
 * {
+  background-color: bisque;
+}
+h1 {
   color: red;
+}
+p {
+  color: #444;
+  font-style: italic;
+  padding: 20px;
 }
